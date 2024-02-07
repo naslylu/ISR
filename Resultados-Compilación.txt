@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 22:41...
+1>------ Operación Compilar iniciada: Proyecto: ISR, configuración: Debug Any CPU ------
+1>  ISR -> C:\Users\ACE\source\repos\ISR\ISR\bin\Debug\ISR.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 22:42 y tardó 08.731 segundos ==========
